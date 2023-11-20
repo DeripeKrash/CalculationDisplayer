@@ -22,7 +22,7 @@ A simple over-engeenired app for pre established calculation.
 - You create a DataAsset from your created class
 - You click on GenerateProcessedValueData
 - You do your setup
-- You can click on ComputeAllCalculationParamter to check your calculations works
+- You can click on ComputeAllCalculationParamter to check if your calculations works
 
 <div align="center">
     <img src="Screenshots/AssetExemple.png" width=50% height=50% />
