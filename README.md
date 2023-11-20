@@ -11,7 +11,7 @@ A simple over-engeenired app to for pre established calculation.
 
 ## First you create your class
 - It has to inherit UCalculationData (which itself inherit from UDataAsset)
-- You add "ProccessedValue" in the meta for the paramter to be visible and "CalculationFunction="{YourCppFunction}"" to determine which function will setup its value
+- You add "ProccessedValue" in the meta for the parameter to be visible and "CalculationFunction="{YourCppFunction}"" to determine which function will setup its value
 
 <div align="center">
     <img src="Screenshots/CodeExemple.png" width=50% height=50% />
@@ -27,7 +27,7 @@ A simple over-engeenired app to for pre established calculation.
     <img src="Screenshots/AssetExemple.png" width=50% height=50% />
 </div>
 
-## You add the CalculationData to a MenuAsset
+## Then you add the CalculationData to a MenuAsset
 - Create the MenuAsset if it's not already done 
 - SetupMenuChildren will setup the parent for all the menu in the SubMenu list
 
